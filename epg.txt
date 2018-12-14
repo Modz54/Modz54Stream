@@ -1,8 +1,8 @@
-Principale\n
-Nessuna informazione\n
-Canale 1\n
-Nessuna informazione\n
-Canale 2\n
-Nessuna informazione\n
-Canale 3\n
-Nessuna informazione\n
+Principale
+Nessuna informazione
+Canale 1
+Nessuna informazione
+Canale 2
+Nessuna informazione
+Canale 3
+Nessuna informazione

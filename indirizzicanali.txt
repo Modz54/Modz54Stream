@@ -7,7 +7,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117$
 Rete_4$
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8$
 Canale_5$
-http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8$
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
 Italia_1$
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8$
 La7$

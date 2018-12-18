@@ -43,7 +43,7 @@ Radio_105_TV$
 Padre_Pio_TV$
 Rai_Scuola$
 M2o_Tv$
-Radio_capital_Tivù$
+Radio_capital_Tv$
 ORLER_CHANNEL$
 TG_Norba24$
 ALICE$
@@ -68,7 +68,7 @@ Il_Meteo.It_Oggi$
 Il_Meteo.It_Domani$
 Il_Meteo.It_Dopodomani$
 Radio_Deejay$
-Radio_Tivù_Azzurra$
+Radio_Tv_Azzurra$
 Radio_Universal_TV$
 Radio_Taormina_TV$
 Telecolor$

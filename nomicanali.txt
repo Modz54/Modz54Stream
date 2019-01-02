@@ -1,3 +1,1 @@
-Rai1$
-Rai2$
-rai3
+Rai1$Rai2$rai3

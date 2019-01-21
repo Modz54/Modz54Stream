@@ -1,1 +1,1 @@
-rtmp://modz54.zapto.org:1935/live/test
+rtmp://modz54.ddns.net:1935/live/test
